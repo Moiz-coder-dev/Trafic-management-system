@@ -1,6 +1,5 @@
 # Trafic-management-system
 
-Sure, here is a formatted report suitable for inclusion in a GitHub repository README file, detailing the C++ traffic control system code:
 
 Traffic Control System
 This repository contains a C++ console application that implements a traffic control system with AI capabilities for vehicle registration, data storage, and various vehicle-related operations.
@@ -44,7 +43,7 @@ Clone the Repository:
 
 sh
 Copy code
-git clone https://github.com/your-username/traffic-control-system.git
+
 Compile the Code:
 
 sh
